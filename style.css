@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap");
+
+body {
+  font-family: "Work Sans", sans-serif;
+}
+
+.total-money li {
+  list-style: none;
+  font-weight: 500;
+}
+
+.total-money {
+  border-bottom: 1px solid #dbdbdb;
+  padding: 0 0 20px 0;
+}
+
+#menu-list {
+  border-bottom: 1px solid #dbdbdb;
+  padding: 20px 0 20px 0;
+  margin-bottom: 20px;
+}
